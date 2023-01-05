@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTG calculator", "MTG calculator\MTG calculator.csproj", "{DA8434CD-BFD4-4620-BCBC-7C0A5EAEF23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8434CD-BFD4-4620-BCBC-7C0A5EAEF23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8434CD-BFD4-4620-BCBC-7C0A5EAEF23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8434CD-BFD4-4620-BCBC-7C0A5EAEF23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8434CD-BFD4-4620-BCBC-7C0A5EAEF23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4E278A-5A18-4386-8CD4-17AC801D5469}
+	EndGlobalSection
+EndGlobal

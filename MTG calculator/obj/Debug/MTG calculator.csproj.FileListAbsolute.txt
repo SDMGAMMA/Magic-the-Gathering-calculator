@@ -1,0 +1,63 @@
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.0\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator 3.1\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\HVA\HvA 3de jaar\Github\MTG calculator final\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\Nicolaas\Desktop\Programmeren\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\Up for backup removal - 2022\Programmeren (Figure this out)\Coding\Hobby\MTG calculator Commented\MTG calculator\obj\Debug\MTG calculator.pdb
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\bin\Debug\MTG calculator.exe.config
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\bin\Debug\MTG calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\bin\Debug\MTG calculator.pdb
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\obj\Debug\MTG calculator.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\obj\Debug\MTG calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\obj\Debug\MTG calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\GitHub repos\Magic-the-Gathering-calculator\MTG calculator\obj\Debug\MTG calculator.pdb
