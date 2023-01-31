@@ -40,85 +40,85 @@ namespace MTG_calculator
         // Data will be kept, but it will not be taken into the calculations.
         static List<string> deckMemory = new List<string> {
             // Standard
-            "WUBRG Plants 1IKO 3M21",
-            //"WUBRG Plants 2M20 3M21",
-            //"WUBRG Plants 1RIX 3M21",
-            //"WUBRG Plants 1AKR 3M21",
-            //"WUBRG Plants 1IKO 3M20",
-            //"WUBRG Plants 2M20 3M20",
-            //"WUBRG Plants 1RIX 3M20",
-            //"WUBRG Plants 1AKR 3M20",
+            //"WUBRG Plants 1IKO 3M21",
+            ////"WUBRG Plants 2M20 3M21",
+            ////"WUBRG Plants 1RIX 3M21",
+            ////"WUBRG Plants 1AKR 3M21",
+            ////"WUBRG Plants 1IKO 3M20",
+            ////"WUBRG Plants 2M20 3M20",
+            ////"WUBRG Plants 1RIX 3M20",
+            ////"WUBRG Plants 1AKR 3M20",
 
-            "Selesnya Counters",
+            //"Selesnya Counters",
 
-            // Life land
-            //"Rakdos Party Aggro M21",
-            //"Rakdos Party Aggro IKO",
-            "Rakdos Party Aggro M20",
+            //// Life land
+            ////"Rakdos Party Aggro M21",
+            ////"Rakdos Party Aggro IKO",
+            //"Rakdos Party Aggro M20",
 
-            // Temple - Life land
-            "Boros Warriors 1M21 2M21",
-            "Boros Warriors 1M21 2IKO",
-            "Boros Warriors 1M21 2ELD",
-            "Boros Warriors 1M21 2M20",
-            "Boros Warriors 1M20 2M21",
-            "Boros Warriors 1M20 2IKO",
-            "Boros Warriors 1M20 2ELD",
-            "Boros Warriors 1M20 2M20",
+            //// Temple - Life land
+            //"Boros Warriors 1M21 2M21",
+            //"Boros Warriors 1M21 2IKO",
+            //"Boros Warriors 1M21 2ELD",
+            //"Boros Warriors 1M21 2M20",
+            //"Boros Warriors 1M20 2M21",
+            //"Boros Warriors 1M20 2IKO",
+            //"Boros Warriors 1M20 2ELD",
+            //"Boros Warriors 1M20 2M20",
 
-            // Temple - Life land
-            //"Simic Scute 1M21 2M21",
-            //"Simic Scute 1M21 2IKO",
-            //"Simic Scute 1M21 2ELD",
-            //"Simic Scute 1M21 2M20",
-            //"Simic Scute 1M20 2M21",
-            //"Simic Scute 1M20 2IKO",
-            //"Simic Scute 1M20 2ELD",
-            //"Simic Scute 1M20 2M20",
-            //"Simic Scute 2M21",
-            //"Simic Scute 2IKO",
-            //"Simic Scute 2ELD",
-            //"Simic Scute 2M20",
+            //// Temple - Life land
+            ////"Simic Scute 1M21 2M21",
+            ////"Simic Scute 1M21 2IKO",
+            ////"Simic Scute 1M21 2ELD",
+            ////"Simic Scute 1M21 2M20",
+            ////"Simic Scute 1M20 2M21",
+            ////"Simic Scute 1M20 2IKO",
+            ////"Simic Scute 1M20 2ELD",
+            ////"Simic Scute 1M20 2M20",
+            ////"Simic Scute 2M21",
+            ////"Simic Scute 2IKO",
+            ////"Simic Scute 2ELD",
+            ////"Simic Scute 2M20",
 
-            // Temple - Life land
-            //"Simic Kicker 1M21 2M21",
-            //"Simic Kicker 1M21 2IKO",
-            "Simic Kicker 1M21 2ELD",
-            //"Simic Kicker 1M21 2M20",
-            //"Simic Kicker 1M20 2M21",
-            //"Simic Kicker 1M20 2IKO",
-            //"Simic Kicker 1M20 2ELD",
-            //"Simic Kicker 1M20 2M20",
+            //// Temple - Life land
+            ////"Simic Kicker 1M21 2M21",
+            ////"Simic Kicker 1M21 2IKO",
+            //"Simic Kicker 1M21 2ELD",
+            ////"Simic Kicker 1M21 2M20",
+            ////"Simic Kicker 1M20 2M21",
+            ////"Simic Kicker 1M20 2IKO",
+            ////"Simic Kicker 1M20 2ELD",
+            ////"Simic Kicker 1M20 2M20",
 
-            // Historic
-            //"Tempered Steel 1ZNR",
-            //"Tempered Steel 1M21",
-            //"Tempered Steel 1IKO",
-            //"Tempered Steel 1THB",
-            //"Tempered Steel 1ELD",
-            //"Tempered Steel 1M20",
-            //"Tempered Steel 1WAR",
-            //"Tempered Steel 1RNA",
-            //"Tempered Steel 1GRN",
-            //"Tempered Steel 1M19",
-            "Tempered Steel 1DOM",
-            //"Tempered Steel 1RIX",
-            //"Tempered Steel 1XLN",
-            //"Tempered Steel 1AKR",
-            //"Tempered Steel 2ZNR",
-            //"Tempered Steel 2M21",
-            //"Tempered Steel 2IKO",
-            //"Tempered Steel 2THB",
-            //"Tempered Steel 2ELD",
-            //"Tempered Steel 2M20",
-            //"Tempered Steel 2WAR",
-            //"Tempered Steel 2RNA",
-            //"Tempered Steel 2GRN",
-            //"Tempered Steel 2M19",
-            //"Tempered Steel 2DOM",
-            //"Tempered Steel 2RIX",
-            //"Tempered Steel 2XLN",
-            //"Tempered Steel 2AKR"
+            //// Historic
+            ////"Tempered Steel 1ZNR",
+            ////"Tempered Steel 1M21",
+            ////"Tempered Steel 1IKO",
+            ////"Tempered Steel 1THB",
+            ////"Tempered Steel 1ELD",
+            ////"Tempered Steel 1M20",
+            ////"Tempered Steel 1WAR",
+            ////"Tempered Steel 1RNA",
+            ////"Tempered Steel 1GRN",
+            ////"Tempered Steel 1M19",
+            //"Tempered Steel 1DOM",
+            ////"Tempered Steel 1RIX",
+            ////"Tempered Steel 1XLN",
+            ////"Tempered Steel 1AKR",
+            ////"Tempered Steel 2ZNR",
+            ////"Tempered Steel 2M21",
+            ////"Tempered Steel 2IKO",
+            ////"Tempered Steel 2THB",
+            ////"Tempered Steel 2ELD",
+            ////"Tempered Steel 2M20",
+            ////"Tempered Steel 2WAR",
+            ////"Tempered Steel 2RNA",
+            ////"Tempered Steel 2GRN",
+            ////"Tempered Steel 2M19",
+            ////"Tempered Steel 2DOM",
+            ////"Tempered Steel 2RIX",
+            ////"Tempered Steel 2XLN",
+            ////"Tempered Steel 2AKR"
         };
 
         // The difference between the two following dictionaries is that packsPerSetsDictionary remembers for EACH SET how many packs were opened for AN ENTIRE DECK 
@@ -199,7 +199,7 @@ namespace MTG_calculator
         static void Main(string[] args)
         {
             // Check if the client wants to check for the cheapest decks
-            Console.Write("Do you want to figure out the cheapest set? Click y: ");
+            Console.Write("Do you want to figure out the cheapest set? Click y (recommended n for no unless you know what you're doing with the code): ");
             bool checkAllDecks = Console.ReadKey().Key == ConsoleKey.Y;
 
             Console.WriteLine();
@@ -208,7 +208,7 @@ namespace MTG_calculator
             if (!checkAllDecks)
             {
                 // Ask for set
-                Console.Write("What set: ");
+                Console.Write("What set? Type any of these inputs (Capital sensitive) ZNR, M21, IKO, THB, ELD, M20, WAR, RNA, GRN: ");
                 set = Console.ReadLine();
 
                 // Ask for packs
@@ -222,158 +222,7 @@ namespace MTG_calculator
                 deck = "Template";
                 AddDeck(0);
 
-                switch (set)
-                {
-                    case "ZNR":
-                        #region ZNR
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-
-                        deck = "Rakdos Party Aggro M20";
-                        AddDeck(29);
-
-                        deck = "Simic Kicker 1M21 2M21";
-                        AddDeck(72);
-
-                        deck = "Simic Scute 2IKO";
-                        AddDeck(84);
-
-                        deck = "All Commons ZNR";
-                        AddDeck(104);
-
-                        deck = "WUBRG Plants";
-                        AddDeck(126);
-                        #endregion
-                        break;
-                    case "M21":
-                        #region M21
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-
-                        deck = "Rakdos Party Aggro M20";
-                        AddDeck(12);
-
-                        deck = "Simic Kicker M21";
-                        AddDeck(21);
-
-                        deck = "Simic Scute 2IKO";
-                        AddDeck(21);
-
-                        deck = "WUBRG Plants";
-                        AddDeck(42);
-                        #endregion
-                        break;
-                    case "IKO":
-                        #region IKO
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-
-                        deck = "Rakdos Party Aggro M20";
-                        AddDeck(12);
-
-                        deck = "Simic Kicker 1M21 2M21";
-                        AddDeck(12);
-
-                        deck = "Simic Scute 2IKO";
-                        AddDeck(44);
-
-                        deck = "WUBRG Plants";
-                        AddDeck(52);
-                        #endregion
-                        break;
-                    case "THB":
-                        #region THB
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-
-                        deck = "Rakdos Party Aggro M20";
-                        AddDeck(25);
-
-                        deck = "Simic Kicker 1M21 2M21";
-                        AddDeck(25);
-
-                        deck = "Simic Scute 2IKO";
-                        AddDeck(25);
-
-                        deck = "WUBRG Plants";
-                        AddDeck(25);
-                        #endregion
-                        break;
-                    case "ELD":
-                        #region ELD
-                        deck = "Tempered Steel DOM";
-                        AddDeck(21);
-
-                        deck = "Rakdos Party Aggro M20";
-                        AddDeck(25);
-
-                        deck = "Simic Kicker 1M21 2M21";
-                        AddDeck(25);
-
-                        deck = "Simic Scute 2IKO";
-                        AddDeck(48);
-
-                        deck = "WUBRG Plants";
-                        AddDeck(48);
-                        #endregion
-                        break;
-                    case "M20":
-                        #region M20
-                        deck = "Tempered Steel DOM";
-                        AddDeck(21);
-                        #endregion
-                        break;
-                    case "WAR":
-                        #region WAR
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    case "RNA":
-                        #region RNA
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    case "GRN":
-                        #region GRN
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    case "M19":
-                        #region M19
-                        deck = "Tempered Steel DOM";
-                        AddDeck(6);
-                        #endregion
-                        break;
-                    case "DOM":
-                        #region DOM
-                        deck = "Tempered Steel DOM";
-                        AddDeck(24);
-                        #endregion
-                        break;
-                    case "RIX":
-                        #region RIX
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    case "XLN":
-                        #region XLN
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    case "AKR":
-                        #region AKR
-                        deck = "Tempered Steel DOM";
-                        AddDeck(0);
-                        #endregion
-                        break;
-                    default:
-                        break;
-                }
+                
                 #endregion
 
                 // Get if you can craft the last deck in the above information
@@ -1884,15 +1733,17 @@ namespace MTG_calculator
             {
                 for (int i = 0; i < maxDuplicates; i++)
                 {
-                    // 1 First, turn previousPercentage in the current one.
-                    // 2 Then, for the current duplicate amount, get what the chances are to open a card we haven't had with this many duplicates
-                    // 3 Devide this number with the total amount of cards in this rarity so we get a value between 1 and 0 (or thus a percentage).
-                    // 4 Multiply this with the card we have *left over* and add the percentage.
+                    // 1 First, give previousPercentage the value of the current cardPercentage for later usage.
+                    // 2 Then, for the current duplicate amount, get what the chances are to open a card we don't have with this many duplicates
+                    // 3 Devide this number with the total amount of cards in the set so we get a value between 1 and 0 (or thus a percentage).
+                    // 4 Multiply the chance of a new card with card percentage, the chance we open a card on this duplicate amount.
+                    // 5 Add the card to the collection.
                     previousPercentage = cardPercentage;
                     cardPercentage = ((cardsInSet[rarityIndex] - cardCopiesOwned[rarityIndex, i]) / cardsInSet[rarityIndex]) * cardPercentage;
                     cardCopiesOwned[rarityIndex, i] += cardPercentage;
 
-                    // 5 The cardpercentage now becomes the chance we didn't open on this duplicate amount. The *left over*
+                    // 6 The cardpercentage now becomes the percentage of the chance
+                    // we didn't open a duplicate to use for the next duplicate amount.
                     cardPercentage = previousPercentage - cardPercentage;
                 }
 
